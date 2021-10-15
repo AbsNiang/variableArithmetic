@@ -5,23 +5,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //Scanner input = new Scanner(System.in);
-        //System.out.println("What is your first number?");
-        //int firstNum = input.nextInt();
-        //System.out.println("What is your second number?");
-        //int secNum = input.nextInt();
-        // double total = (double) firstNum / secNum;
-        // System.out.println(total);
-        //System.out.println(17 % 5);
-        //if ((17 % 5) == 0) {
-        // System.out.println("number is divisible by 5");
-        //Scanner input = new Scanner(System.in);
-        // System.out.println("Type a number");
-        // int number = input.nextInt();
-        // double evenTest = (double) number % 2;
-        // if(evenTest == 0); {
-        //     System.out.println("number is even");
-        // }
         Scanner input = new Scanner(System.in);
         System.out.println("What is the employee name?");
         String employeeName = input.next();
